@@ -6,7 +6,7 @@
                                         "eth2": {
                                                 "route-test": {
                                                         "count": {
-                                                                "failure": "10",
+                                                                "failure": "7",
                                                                 "success": "10"
                                                         },
                                                         "initial-delay": "30",
@@ -22,7 +22,7 @@
                                                 "failover-only": "''",
                                                 "route-test": {
                                                         "count": {
-                                                                "failure": "10",
+                                                                "failure": "7",
                                                                 "success": "10"
                                                         },
                                                         "initial-delay": "30",
